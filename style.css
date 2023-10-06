@@ -1,0 +1,83 @@
+.blue{
+    color: #4bcaff;
+}
+
+.grey{
+    background-color: rgba(19, 19, 24, 0.6);
+}
+
+.fond{
+    background-image:url("HERO.jpg");
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.fondBleu{
+    background-image:url("fondservices.png");
+    height: 60vh;
+}
+
+.souligne{
+    text-decoration: underline;
+}
+
+.icone{
+    height: 3em;
+    width: 3em;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-bottom: 7%;
+}
+
+.coffee{
+    background-image: url("coffee.png");
+}
+
+.instant{
+    background-image: url("instant.png");
+}
+
+.serious{
+    background-image: url("dslr.png");
+}
+
+.image{
+    height: 30vh;
+    width: 30vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.fondJust{
+    background-color: #4e5b63;
+}
+
+.fondTwit{
+    background-color: #4bcaff;
+}
+
+.fondFin{
+    background-color: #353f47;
+}
+
+.fondWho{
+    background-image: url("whois.jpg");
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.transparent{
+    background-color: transparent;
+}
+
+.fondContact {
+    background-image: url("pipe.jpg");
+    height: 85vh;
+    background-size: cover;
+    background-position: center;
+}
+
+
